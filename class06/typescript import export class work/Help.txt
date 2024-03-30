@@ -1,0 +1,6 @@
+Make node project: npm init -y
+Make typescript config: tsc --init
+Change out dir from config line 58 uncomment it and make enter directory for output files
+Inline export can be done while writing code but the other one can be exported at end in objects form
+Imports always on top of file's code
+CTRL + ALT + L for Quick console log code while selecting variable
